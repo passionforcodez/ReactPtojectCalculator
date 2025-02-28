@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
@@ -69,7 +69,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+
 # ReactPtojectCalculator
 Building a react project for calculator
->>>>>>> 08c9a97eeb78aedad6eb528bd6ea0ba9cb65c831
+
+# Simple Calculator in ReactJS
+
+A simple calculator web application built with ReactJS that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This app demonstrates how to build interactive UIs with React and handle state management.
+
+## Features
+
+- **Addition**: Add two numbers.
+- **Subtraction**: Subtract one number from another.
+- **Multiplication**: Multiply two numbers.
+- **Division**: Divide one number by another with error handling for division by zero.
+- **Clear**: Reset the calculator to its initial state.
+- **Simple User Interface**: Easy-to-use interface for performing calculations.
+
+## Technologies Used
+
+- **ReactJS**: JavaScript library for building the user interface.
+- **HTML**: Markup for structuring the page.
+- **CSS**: Styling for the UI.
+- **JavaScript (ES6+)**: To manage the logic of the calculator.
+
+## Installation
+
+To get started with the project, follow the instructions below:
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/simple-calculator.git
+cd simple-calculator
+
